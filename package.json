@@ -40,6 +40,9 @@
     "postcss-cli": "^11.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-vite-saber-utils-library": "^0.0.3",
+    "react-vite-saber-utils-library-test": "^0.0.5",
+    "swiper": "^11.0.5",
     "tailwind-merge": "^2.2.0",
     "tailwindcss": "^3.4.1",
     "tailwindcss-animate": "^1.0.7"
